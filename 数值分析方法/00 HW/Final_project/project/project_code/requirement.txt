@@ -1,0 +1,5 @@
+matplotlib                3.6.2 # 绘图
+numpy                     1.23.1 # 矩阵计算
+openpyxl                  3.0.10 # 读入文件
+pyinstaller               5.6.2 # 函数封装
+sympy                     1.11.1 # 数学公式符号化
